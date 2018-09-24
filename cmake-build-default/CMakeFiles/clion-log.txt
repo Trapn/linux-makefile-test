@@ -1,4 +1,4 @@
-/opt/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/x86_64-linux-gnu-gcc -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/traps/CLionProjects/untitled1
+/opt/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/arm-linux-gnueabihf-g++ -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/traps/CLionProjects/untitled1
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /mnt/c/Users/traps/CLionProjects/untitled1/cmake-build-default

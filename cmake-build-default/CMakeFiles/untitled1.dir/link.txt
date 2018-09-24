@@ -1,1 +1,1 @@
-/usr/bin/x86_64-linux-gnu-gcc     CMakeFiles/untitled1.dir/main.cpp.o  -o untitled1 
+/usr/bin/arm-linux-gnueabihf-g++     CMakeFiles/untitled1.dir/main.cpp.o  -o untitled1 
